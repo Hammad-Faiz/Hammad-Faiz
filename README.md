@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Data Structures/Algorithms**
 
+- 💬 Ask me about **Python, Javascript, Django and Data Structures**
+
 - 📫 How to reach me **hammadfaiz172@gmail.com**
 
 - ⚡ Fun fact **I am funny**
