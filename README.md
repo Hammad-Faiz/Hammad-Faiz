@@ -1,5 +1,5 @@
-### Hi there 👋
-
+<!-- ### Hi there I am Hammad Faiz👋 -->
+<h1 align="center">Hi 👋, I'm Hammad Faiz</h1>
 <!--
 **Hammad-Faiz/Hammad-Faiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
