@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Data Structures/Algorithms**
 
-- 💬 Ask me about **Python and Javascript**
+- 💬 Ask me about **Python, Javascript and Java**
 
 - 📫 How to reach me **hammadfaiz172@gmail.com**
 
