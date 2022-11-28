@@ -1,4 +1,4 @@
-### Hi there 👋 I am Hammad Faiz
+### Hi there 👋 
 <!--
 **Hammad-Faiz/Hammad-Faiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
