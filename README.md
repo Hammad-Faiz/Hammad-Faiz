@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Data Structures/Algorithms**
 
-- 💬 Ask me about **Python, Javascript, Django and Data Structures**
+- 💬 Ask me about **Python/Django and Javascript**
 
 - 📫 How to reach me **hammadfaiz172@gmail.com**
 
@@ -40,4 +40,9 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hammad-faiz&show_icons=true&locale=en&layout=compact" alt="hammad-faiz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hammad-faiz&show_icons=true&locale=en" alt="hammad-faiz" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hammad-faiz&" alt="hammad-faiz" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hammad-faiz&show_icons=true&locale=en&layout=compact" alt="hammad-faiz" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hammad-faiz&show_icons=true&locale=en" alt="hammad-faiz" /></p> -->
 
