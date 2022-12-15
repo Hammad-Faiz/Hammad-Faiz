@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **hammadfaiz172@gmail.com**
 
-- ⚡ Fun fact **I am funny**
+- ⚡ Fun fact **I am always hungry**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
