@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammad-faiz&label=Profile%20views&color=0e75b6&style=flat" alt="hammad-faiz" /> </p>
 
-- 🌱 I’m currently learning **Data Structures/Algorithms**
+- 🌱 I’m currently learning **Java, Spring/Spring Boot**
 
 - 💬 Ask me about **Python and Javascript**
 
