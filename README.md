@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Java, Spring/Spring Boot**
 
-- 💬 Ask me about **Python and Javascript**
+- 💬 Ask me about **Spring Boot and Javascript**
 
 - 📫 How to reach me **hammadfaiz172@gmail.com**
 
