@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammad-faiz&label=Profile%20views&color=0e75b6&style=flat" alt="hammad-faiz" /> </p>
 
-- 🌱 I’m currently learning **Java, Spring/Spring Boot**
+- 🌱 I’m currently working with **Java, Spring/Spring Boot**
 
-- 💬 Ask me about **Spring Boot and Javascript**
+- 💬 Ask me about **Spring Boot and Java**
 
 - 📫 How to reach me **hammadfaiz172@gmail.com**
 
